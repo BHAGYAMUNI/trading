@@ -1,4 +1,4 @@
-# 💹 Virtual Trading Application
+# 💹 StellarTrade : A Virtual Trading Application
 
 A full-stack virtual trading platform that allows users to simulate buying and selling stocks with real-time price updates, portfolio tracking, and transaction history — all without real money. This app is perfect for beginners to practice or pros to test strategies risk-free.
 
@@ -26,19 +26,16 @@ A full-stack virtual trading platform that allows users to simulate buying and s
 ## 🖼️ Screenshots
 
 ### 🏠 Home Page / Dashboard  
-<img src="home.png" alt="Home Page" width="800"/>
+<img src="stellartrade.jpg" alt="Home Page" width="800"/>
 
 ### 📊 Portfolio View  
-<img src="portfolio.png" alt="Portfolio" width="800"/>
-
-### 📈 Stock Details / Trading Screen  
-<img src="trading.png" alt="Trading Screen" width="800"/>
+<img src="portfolio.jpg" alt="Portfolio" width="800"/>
 
 ### 🧾 Transaction History  
-<img src="history.png" alt="Transaction History" width="800"/>
+<img src="transactions.jpg" alt="Transaction History" width="800"/>
 
 ### 🧑‍💼 Leaderboard (if available)  
-<img src="leaderboard.png" alt="Leaderboard" width="800"/>
+<img src="leaderboard.jpg" alt="Leaderboard" width="800"/>
 
 
 ## 🧑‍💻 Getting Started
