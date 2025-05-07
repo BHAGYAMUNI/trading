@@ -1,73 +1,89 @@
-# Welcome to your Lovable project
+# 💹 Virtual Trading Application
 
-## Project info
+A full-stack virtual trading platform that allows users to simulate buying and selling stocks with real-time price updates, portfolio tracking, and transaction history — all without real money. This app is perfect for beginners to practice or pros to test strategies risk-free.
 
-**URL**: https://lovable.dev/projects/05dcede2-5dda-4283-9c78-0e082a0f9e71
+## 🚀 Features
 
-## How can I edit this code?
+- 📈 Real-Time Stock Prices (API-based)
+- 💼 Portfolio Tracking
+- 🔄 Virtual Buy/Sell Orders
+- 🧾 Transaction History
+- 👤 Authentication (JWT-based)
+- 📊 Performance Analytics and Charts
+- ⭐ Watchlist Management
 
-There are several ways of editing your application.
+## 🛠️ Technologies Used
 
-**Use Lovable**
+-  React + TypeScript – For building a scalable and interactive user interface.
+-  Vite – For fast development and efficient bundling.
+-  Tailwind CSS – For responsive and utility-first styling.
+-  ShadCN UI – For accessible and reusable UI components.
+-  @react-three/fiber – For rendering 3D animations using React.
+-  Three.js – For creating dynamic 3D visual backgrounds.
+-  Framer Motion – For smooth animations and transitions.
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/05dcede2-5dda-4283-9c78-0e082a0f9e71) and start prompting.
 
-Changes made via Lovable will be committed automatically to this repo.
+## 🖼️ Screenshots
 
-**Use your preferred IDE**
+### 🏠 Home Page / Dashboard  
+<img src="home.png" alt="Home Page" width="800"/>
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+### 📊 Portfolio View  
+<img src="portfolio.png" alt="Portfolio" width="800"/>
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+### 📈 Stock Details / Trading Screen  
+<img src="trading.png" alt="Trading Screen" width="800"/>
 
-Follow these steps:
+### 🧾 Transaction History  
+<img src="history.png" alt="Transaction History" width="800"/>
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+### 🧑‍💼 Leaderboard (if available)  
+<img src="leaderboard.png" alt="Leaderboard" width="800"/>
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
 
-# Step 3: Install the necessary dependencies.
-npm i
+## 🧑‍💻 Getting Started
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
+1. **Clone the repo**
+   ```bash
+   git clone https://github.com/your-username/teamup.git
+   cd teamup
+2. **Install dependencies**
+   npm install --legacy-peer-deps
+   
+3. **Run the development server**
+   npm run dev
+   
+   
+## 📌 Use Cases
 
-**Edit a file directly in GitHub**
+1. 📘 **Beginner Stock Practice**
+   - New users can simulate stock trading without risking real money.
+   - Learn how stock prices fluctuate and how orders work.
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+2. 🧪 **Strategy Testing**
+   - Test different trading strategies (e.g., value investing, momentum trading) in a safe, virtual environment.
 
-**Use GitHub Codespaces**
+3. 📈 **Portfolio Tracking**
+   - Manage a simulated portfolio and analyze its performance over time.
+   - Practice diversification and risk management.
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+4. 🕵️‍♀️ **Market Observation**
+   - Monitor real-time stock prices, volumes, and trends using watchlists.
+   - Stay updated on favorite companies without buying them.
+     
 
-## What technologies are used for this project?
+## 🧪 Test the App
 
-This project is built with:
+  - Register or log in with demo credentials
+  - Simulate a stock purchase
+  - View your updated portfolio and balance
+  - Add a stock to your watchlist
 
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
+    
+## 🤝 Contributing
+    Contributions are welcome! Please feel free to open issues or submit pull requests.
+    
+## 📄 License
+    Let me know if you’d like a sample `LICENSE` file or a short GitHub project description as well!
 
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/05dcede2-5dda-4283-9c78-0e082a0f9e71) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
+   **Built during a hackathon to solve a real-world challenge of team formation. ✨**
