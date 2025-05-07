@@ -34,7 +34,7 @@ A full-stack virtual trading platform that allows users to simulate buying and s
 ### 🧾 Transaction History  
 <img src="transactions.jpg" alt="Transaction History" width="800"/>
 
-### 🧑‍💼 Leaderboard (if available)  
+### 🧑‍💼 Leaderboard   
 <img src="leaderboard.jpg" alt="Leaderboard" width="800"/>
 
 
